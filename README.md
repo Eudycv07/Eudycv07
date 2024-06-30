@@ -1,13 +1,20 @@
 <h1 align="center"> Hi there 👋, I'm Eudy</h1>
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+
+<a href="https://www.stefanosst.gr"><img src="https://github.com/StefanosSt/StefanosSt/blob/main/Group%203.png"/></a>
 
 <p align="center">
-	<a href="https://github.com/Bouaskaoun">
-		<img src="https://readme-typing-svg.herokuapp.com/?lines=Shopify+Expert;Frontend+Developer;React%20|%20Gatsby%20|%20Next+Enthusiast;DL%20|%20AI%20|%20ML%20Applications;Always%20developing%20my%20skills&center=true&width=380&height=45">
-	</a>
+  <a href="https://www.youtube.com/c/DevProTips?sub_confirmation=1"><img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://freshidea.com/jonah/youtube-api/subscribers-badge.php?color=red&label=Subscribe&style=for-the-badge"/></a> 
+  <a href="https://www.youtube.com/c/DevProTips"><img alt="youtube views" title="YouTube views" src="https://freshidea.com/jonah/youtube-api/view-count-badge-temp.php?label=Views&color=e1ad0e&style=for-the-badge#2"/></a> 
+  <a href="https://twitter.com/DenverCoder1"><img alt="followers" title="Follow me on Twitter" src="https://img.shields.io/twitter/follow/DenverCoder1?color=55960c&label=Follow&logo=twitter&logoColor=white&style=for-the-badge"/></a>
+  <a href="https://github.com/DenverCoder1"><img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/DenverCoder1?color=236ad3&style=for-the-badge&logo=github&label=Follow"/></a>
+  <a href="https://github.com/DenverCoder1"><img alt="views" title="Github views" src="https://freshidea.com/jonah/app/ghpvc/"/></a>
 </p>
 
-<pre>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 💻 I am developing my skills as a Frontend Developer | Enthuastic about new technologies
 📚 I have a Bachelors in Computer Science and a Masters in Artificial Intelligence & Deep Learning
 📝 I have a strong interest in building Frontend Uis for ML applications
@@ -15,9 +22,43 @@
 🌱 Focusing on Learning about customer needs and making their lives easier
 🌟 Main languages: Javascript, Python
 🚩 Interested in Full Stack Machine Learning Application development
-</pre>
 
-# 💻Tech Stack <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px>
+<div align="center">
+  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/readme/resources/img/grid-snake.svg"
+       alt="snake" /></a>
+</div>
 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-darkblue.svg?style=for-the-badge&logo=python&logoColor=white)![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![SASS](https://img.shields.io/badge/sass-firebrick.svg?style=for-the-badge&logo=sass&logoColor=white) ![Gatsby](https://img.shields.io/badge/gatsby-%23430098.svg?style=for-the-badge&logo=gatsby&logoColor=white)![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-6DA55F.svg?style=for-the-badge&logo=npm&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Pug](https://img.shields.io/badge/Pug-FFF?style=for-the-badge&logo=pug&logoColor=A86454) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23430098.svg?style=for-the-badge&logo=bootstrap&logoColor=white)![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Tensorflow](https://img.shields.io/badge/tensorflow-orange.svg?style=for-the-badge&logo=tensorflow&logoColor=white)![Pytorch](https://img.shields.io/badge/pytorch-%23000000.svg?style=for-the-badge&logo=pytorch&logoColor=white)
-![Adobe Illustrator](https://img.shields.io/badge/adobeillustrator-%23FF9A00.svg?style=for-the-badge&logo=adobeillustrator&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white)![Figma](https://img.shields.io/badge/figma-black.svg?style=for-the-badge&logo=figma&logoColor=red) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+![Eudy's github stats](https://github-readme-stats.vercel.app/api?username=Eudycv07&show_icons=true&theme=tokyonight)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Eudycv07&theme=tokyonight" alt="mystreak"/>
+
+
+
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+
+<!--h1 without bottom border-->
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h2 style="display: inline-block">Technologies That I Know <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px></h2></summary>
+  </ul>
+</div>
+
+
+
+
+<!--tech stack icons-->
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,css,express,figma,html,js,materialui,mongodb,mysql,nodejs,postman,tailwind,ts,vscode,angular,bootstrap,cs,dotnet," />
+  </a>
+</p>
+
+
+
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+
