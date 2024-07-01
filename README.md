@@ -9,8 +9,8 @@
   <a href="https://www.youtube.com/c/UC11Oc6P2bbBj1YZQeoYkcMA?sub_confirmation=1"><img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://img.shields.io/youtube/channel/subscribers/UC11Oc6P2bbBj1YZQeoYkcMA"/></a> 
   <a href="https://www.youtube.com/c/UC11Oc6P2bbBj1YZQeoYkcMA"><img alt="youtube views" title="YouTube views" src="https://img.shields.io/youtube/channel/views/UC11Oc6P2bbBj1YZQeoYkcMA"/></a> 
   <a href="https://twitter.com/DenverCoder1"><img alt="followers" title="Follow me on Twitter" src="https://img.shields.io/twitter/follow/DenverCoder1?color=55960c&label=Follow&logo=twitter&logoColor=white&style=for-the-badge"/></a>
-  <a href="https://github.com/DenverCoder1"><img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/DenverCoder1?color=236ad3&style=for-the-badge&logo=github&label=Follow"/></a>
-  <a href="https://github.com/DenverCoder1"><img alt="views" title="Github views" src="https://freshidea.com/jonah/app/ghpvc/"/></a>
+  <a href="https://github.com/Eudycv07"><img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/stars/Eudycv07"/></a>
+  <a href="https://github.com/Eudycv07"><img alt="views" title="Github views" src="https://img.shields.io/github/followers/Eudycv07"/></a>
 </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
