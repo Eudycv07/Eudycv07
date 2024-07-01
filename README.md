@@ -17,6 +17,12 @@
 
 Hello! I'm Eudy Gonzalez, a passionate and results-oriented Full Stack web developer with a proven track record of creating dynamic and visually impressive websites, specializing in eCommerce development. My experience spans a wide range of technologies, making me your comprehensive solution for all your web development needs.
 
+👨🏽‍💻Skills Overview:
+
+✅ Full Stack Development: As a seasoned full-stack developer, I thrive on both the frontend and backend of web applications. From crafting responsive user interfaces to implementing robust server-side functionalities, I bring a holistic approach to your project.
+
+✅ Proficiency in Angular: I excel in building modern and interactive user interfaces. Leveraging the power of Angular, I develop dynamic and engaging frontend experiences that captivate users and keep them coming back for more.
+
 <div align="center">
   <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/readme/resources/img/grid-snake.svg"
        alt="snake" /></a>
