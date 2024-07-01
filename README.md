@@ -15,13 +15,7 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-💻 I am developing my skills as a Frontend Developer | Enthuastic about new technologies
-📚 I have a Bachelors in Computer Science and a Masters in Artificial Intelligence & Deep Learning
-📝 I have a strong interest in building Frontend Uis for ML applications
-🔭 Working on Shopify Themes and React websites using Gatsby.js
-🌱 Focusing on Learning about customer needs and making their lives easier
-🌟 Main languages: Javascript, Python
-🚩 Interested in Full Stack Machine Learning Application development
+Hello! I'm Eudy Gonzalez, a passionate and results-oriented Full Stack web developer with a proven track record of creating dynamic and visually impressive websites, specializing in eCommerce development. My experience spans a wide range of technologies, making me your comprehensive solution for all your web development needs.
 
 <div align="center">
   <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/readme/resources/img/grid-snake.svg"
