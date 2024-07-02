@@ -3,7 +3,7 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 
-<a href="https://www.stefanosst.gr"><img src="https://github.com/StefanosSt/StefanosSt/blob/main/Group%203.png"/></a>
+<a href="https://www.stefanosst.gr"><img src="https://github.com/Eudycv07/Eudycv07/blob/main/eudycv07.jpg"/></a>
 
 <p align="center">
   <a href="https://www.youtube.com/@lechuzatech?sub_confirmation=1"><img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://img.shields.io/youtube/channel/subscribers/UC11Oc6P2bbBj1YZQeoYkcMA"/></a> 
